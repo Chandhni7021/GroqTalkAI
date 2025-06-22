@@ -32,6 +32,11 @@ groqtalk-ai/
 ├── audio/               # Folder for test audio files
 ├── README.md
 
+![Screenshot 2025-06-22 082637](https://github.com/user-attachments/assets/fdcf8a8e-b754-4948-92d5-72fe2beb6d3a)
+
+![Screenshot 2025-06-22 082657](https://github.com/user-attachments/assets/0ae80ad4-d441-4d7d-b2f0-e5e7dae25542)
+
+
 🎯 Use Cases
 
 🗣️ Podcast and meeting transcription

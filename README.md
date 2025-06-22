@@ -23,22 +23,6 @@ This project bridges the power of **real-time AI inference** with **user-friendl
 - Groq API + Whisper model  
 - Requests, dotenv, base64
 
-🖥️ How to Run
-
-1️⃣ Clone the repository
-git clone https://github.com/Chandhni7021/groqtalk-ai.git
-cd groqtalk-ai
-
-2️⃣ Install dependencies:
-pip install requests python-dotenv
-
-3️⃣ Add your Groq API key to .env:
-Create a .env file in the root folder and add:
-GROQ_API_KEY=your_actual_key_here
-
-4️⃣ Run the app:
-python gui_app.py
-
 📁 Project Structure
 
 groqtalk-ai/

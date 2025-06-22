@@ -26,7 +26,7 @@ This project bridges the power of **real-time AI inference** with **user-friendl
 🖥️ How to Run
 
 1️⃣ Clone the repository
-git clone https://github.com/your-username/groqtalk-ai.git
+git clone https://github.com/Chandhni7021/groqtalk-ai.git
 cd groqtalk-ai
 
 2️⃣ Install dependencies:
